@@ -1,7 +1,7 @@
 # Level5_Mission6
 
 ## CV
-[https://jimsondev.netlify.app/static/media/cv-final-it.78ae30aaab5a77aea65c.pdf](https://github.com/JimsonXD/Level5_Mission6/blob/main/Jimson-CV.pdf)
+https://github.com/JimsonXD/Level5_Mission6/blob/main/Jimson-CV.pdf
 
 ## Interview Q & A
 https://github.com/JimsonXD/Level5_Mission6/blob/main/InterviewQuestions.docx
