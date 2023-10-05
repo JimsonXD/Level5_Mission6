@@ -4,7 +4,7 @@
 https://jimsondev.netlify.app/static/media/cv-final-it.78ae30aaab5a77aea65c.pdf
 
 ## Interview Q & A
-
+https://github.com/JimsonXD/Level5_Mission6/blob/main/InterviewQuestions.docx
 
 
 ### LinkedIn Profile
